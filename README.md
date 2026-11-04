@@ -1,4 +1,4 @@
-# Karhutla - Tugas Kelompok 1 
+# Tugas Kelompok 1 - Karhutla 
 ## Mata Kuliah : Diskrit
 ## Anggota Kelompok :
 1. Moh. Rizki
@@ -11,3 +11,4 @@
 optimalisasi rute penanganan titik api(karhutla) tercepat oleh armada pemadam kebakaran 
 ## Permasalahan
 Armada pemadam kebakaran berangkat dari posko utama untuk memadamkan beberapa titik api kebakaran hutan dan lahan (karhutla) yang tersebar di beberapa lokasi. Armada harus mengunjungi setiap lokasi titik api tepat satu kali untuk penanganan awal/penyiraman, lalu kembali ke posko utama dengan total waktu tempuh/rute tercepat untuk meminimalkan penyebaran api.
+![Project Screenshot](./hasil\ akhir.png)
